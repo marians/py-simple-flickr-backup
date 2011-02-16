@@ -8,10 +8,10 @@ Requirements
 ------------
 
 * Python (tested on 2.6.1)
-* FlickrAPI module from [http://stuvel.eu/flickrapi] (thanks to Sybren A. Stüvel!)
+* FlickrAPI module from [http://stuvel.eu/flickrapi](http://stuvel.eu/flickrapi) (thanks to Sybren A. Stüvel!)
 * ElementTree module
 * urllib module
-* A Flickr API and the according secret. Get them at [http://www.flickr.com/services/api/keys/]
+* A Flickr API and the according secret. Get them at [http://www.flickr.com/services/api/keys/](http://www.flickr.com/services/api/keys/)
 * a graphical system like Mac OS X, Windows or Linux. A simple text shell probably won't work
 	due to OAuth authentication.
 * Your Flickr user ID. Mine is '16126796@N00'
@@ -23,7 +23,7 @@ Usage
 * edit the script file in order to contain your api_key, api_secret and user_id
 * run the script in the command line, e.g. with
 
-	python get_my_photos.py
+	`python get_my_photos.py`
 
 * When your browser opens, asking you to authorize an app for Flickr access, hit the Accept button.
 * Turn back to the console and hit ENTER
